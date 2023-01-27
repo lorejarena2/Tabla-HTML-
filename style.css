@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+}
+
+
+.cambiar td{
+    border: solid 1px black;
+    background-color: #90c1c2;
+}
+
+.tambien{
+    border: solid 1px black;
+    background-color: #90c1c2;
+}
+
+table{
+border-spacing: 0;
+margin: 0 auto;
+}
+
+td{
+    border: dashed 1px;
+}
+
+.colorcito:hover{
+    background-color:#90ee90 ;
+}
+
+table:hover{
+    cursor: cell;
+}
+
